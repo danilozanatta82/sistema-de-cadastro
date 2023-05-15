@@ -1,6 +1,5 @@
-# Sistema de Anos de Copa do Mundo
+# Sistema de Cadastro de Jogos
 
-> Curso de Lógica de Programação
 ```
 node app.js
 ```
